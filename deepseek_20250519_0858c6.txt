@@ -1,0 +1,8 @@
+astrodomi-portfolio/
+├── index.html       (Homepage)
+├── about.html       (Team page)
+├── portfolio.html   (Gallery)
+├── contact.html     (Contact form)
+├── css/
+│   └── style.css    (Styling)
+└── images/          (Your photos)

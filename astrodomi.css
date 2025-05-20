@@ -1,0 +1,30 @@
+:root {
+  --bg-dark: #1b1c1e;
+  --text-light: #f1efe7;
+  --accent-copper: #9b4819;
+}
+
+body {
+  background: var(--bg-dark);
+  color: var(--text-light);
+  font-family: 'DM Sans', sans-serif;
+  margin: 0;
+}
+
+.logo {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: var(--text-light);
+}
+
+.accent {
+  color: var(--accent-copper);
+}
+
+.button {
+  background: var(--accent-copper);
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
